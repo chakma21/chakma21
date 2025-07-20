@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I am Shiny Chakma<br><br>- 👩‍🎓 IT Student from ABV-IIITM Gwalior<br>- 🔭 Currently working on a project for enhancing product search on shopping websites<br>- 🌱 Currently learning AI models, web3<br>-🔎  In search of SDE internships and jobs<br>- ☁️ Enthusiast on cloud computing<br>- 🌱willing to bring tech innovation and sustainability
+## Hi there, I am Shiny Chakma<br><br>- 👩‍🎓 IT Student from ABV-IIITM Gwalior<br>- 🔭 Currently working on a project for Adobe India Hackathon<br>- 🌱 Currently learning AI models, web3<br>-🔎  In search of SDE internships and jobs<br>- ☁️ Enthusiast on cloud computing<br>- 🌱willing to bring tech innovation and sustainability
 
 
 ## 🌐 Socials:
