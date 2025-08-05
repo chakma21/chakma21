@@ -1,5 +1,5 @@
 # About Me:
-## Hi there, I am Shiny Chakma<br><br>- 👩‍🎓 IT Student from ABV-IIITM Gwalior<br>- 🌱 Currently learning AI models, ML, web3<br>-🔎  In search of SDE internships and jobs<br>- ☁️ Enthusiast on cloud computing & DevOps<br>- 🌱willing to bring tech innovation and sustainability
+## Hi there, I am Shiny Chakma<br><br>-  IT Student from ABV-IIITM Gwalior<br>- Full Stack Developer, DSA Enthusiast<br>-  Currently learning AI models, ML, web3<br>-  In search of SDE internships and jobs<br>-  Enthusiast on cloud computing & DevOps<br>- willing to bring tech innovation and sustainability
 
 
 ## 🌐 Socials:
