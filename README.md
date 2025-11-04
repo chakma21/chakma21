@@ -13,9 +13,6 @@ Prefinal year student from IIITM Gwalior.<br> Live somewhere between AI and clou
 ![](https://nirzak-streak-stats.vercel.app/?user=chakma21&theme=calm_pink&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chakma21&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chakma21&theme=calm&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=chakma21&icon=0&color=12)](https://visitcount.itsvg.in)
 
