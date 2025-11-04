@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I am Shiny Chakma
+HI, I am Shiny Chakma<br>
 Prefinal year student from IIITM Gwalior.<br> Live somewhere between AI and cloud. <br>Passionate about DevOps, automation, and scaling ideas into reliable solutions. <br>Keen to dive into open source and start contributing to real projects.<br>On the lookout for a Summer 2026 internship.<br>
 
 
